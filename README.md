@@ -73,7 +73,7 @@ ONESIGNAL_API_KEY=Your Onesignal API Key
 
 ## Related Project (Backend)
 
-- [`Backend TaniBox`](https://github.com/reihnagm/TaniBox-Backend)
+- [`Backend TaniBox`](https://github.com/halim13/TaniBox-Backend)
 
 ## Contributors
 
